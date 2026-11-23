@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CHURCH CONNECT</string>
+    <string name="default_notification_channel_id">church_updates_channel</string>
+</resources>

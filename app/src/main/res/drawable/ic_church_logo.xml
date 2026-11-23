@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Church Cross & Building Vector Logo -->
+    <path
+        android:fillColor="#FF1565C0"
+        android:pathData="M50,10 L50,35 M38,22 L62,22 M25,40 L75,40 L75,90 L25,90 Z" />
+    <path
+        android:fillColor="#FFD4A937"
+        android:pathData="M42,60 H58 V90 H42 Z" />
+</vector>
